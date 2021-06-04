@@ -23,6 +23,7 @@ export const Image = styled.img`
   border-radius: 0.25rem;
   //   max-width: 100%;
   height: 32rem;
+  object-fit: cover;
   width: 45rem;
   @media (max-width: 876px) {
     width: 100%;
