@@ -8,7 +8,7 @@ export default function ExpertiseContainer() {
       <Expertise.Content>
         <Expertise.Text>
           I Nogula Luzuko, I am a student at VUT who is so busy studying a field
-          of engineering which is elecrical engineering(power).
+          of engineering which is Civil engineering
         </Expertise.Text>
         <Expertise.Text>
           On the other side I have my own personal project which I am doing
@@ -18,7 +18,7 @@ export default function ExpertiseContainer() {
           I also like to play football and commit myselt with my school work
         </Expertise.Text>
       </Expertise.Content>
-      <Expertise.MMTitle>Manegment Matrix</Expertise.MMTitle>
+      <Expertise.MMTitle>Management Matrix</Expertise.MMTitle>
       <Expertise.MM>
         {MMData.map((item) => {
           return (

@@ -12,7 +12,7 @@ export const MMData = [
   },
   {
     day: "WEDNESDAY ",
-    task: "I have to attend Electrical practicals from 10:00 -12-00,- attend Mathematics 1 from 18:00-19:30",
+    task: "I have to attend Civil practicals from 10:00 -12-00,- attend Mathematics 1 from 18:00-19:30",
   },
   {
     day: "THURSDAY ",

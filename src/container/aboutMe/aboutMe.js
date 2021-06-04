@@ -16,9 +16,8 @@ export default function AboutMeContainer() {
           <AboutMe.Heading2>About Me</AboutMe.Heading2>
           <AboutMe.Heading4>Hello! My Name is Nogula Luzuko.</AboutMe.Heading4>
           <AboutMe.Text>
-            I am doing Electrical engineering(computer systems) which is the
-            course i desire the most because I am passionate about my work and
-            Because I love what I do,
+            I am doing Civil engineering which is the course i desire the most
+            because I am passionate about my work and Because I love what I do,
           </AboutMe.Text>
           <AboutMe.Text>
             I have a steady source of motivation that drives me to do my best.
